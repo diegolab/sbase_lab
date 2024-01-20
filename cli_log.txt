@@ -1,0 +1,9 @@
+pip install pipenv
+
+pip install --upgrade pip
+
+pipenv install seleniumbase
+
+sbase --version
+
+sbase mkdir ui_tests --basic
